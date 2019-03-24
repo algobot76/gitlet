@@ -7,17 +7,13 @@
     "type": "git",
     "url": "https://github.com/maryrosecook/gitlet.git"
   },
-
   "main": "./gitlet.js",
-
   "bin": {
     "gitlet": "./gitlet.js"
   },
-
   "scripts": {
     "test": "jasmine-node spec"
   },
-
   "devDependencies": {
     "jasmine-node": "1.14.5"
   }
